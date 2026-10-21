@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.birrstudio.flowioc.core": {
-      "version": "1.35.0",
+      "version": "1.35.1",
       "depth": 0,
       "source": "registry",
       "dependencies": {
